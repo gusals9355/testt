@@ -1,0 +1,8 @@
+name: ZizonPlugin   #플러그인 이름
+version: 1.0        #플러그인 버전
+main: org.example.plugin.Plugin
+commands:
+  test:
+    description: 테스트명령어
+    usage: /test
+    aliases: [test11]
